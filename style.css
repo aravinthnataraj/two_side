@@ -1,0 +1,124 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #8d9af8;
+}
+.container {
+  height: 600px;
+  width: 75%;
+  margin: 10%;
+  font-family: "Manrope", sans-serif;
+  border-radius: 25px;
+  border: 5px solid red;
+  background-color: white;
+}
+.row {
+  width: 100%;
+  margin: auto;
+}
+.box1 {
+  width: 50%;
+}
+.arrow {
+  margin-top: 30px;
+  margin-left: 10px;
+}
+.back {
+  display: inline;
+  color: rgb(193, 202, 202);
+  font-size: small;
+  margin-left: 4px;
+}
+.whiskar {
+  float: left;
+  width: 500px;
+}
+.box2 {
+  width: 50%;
+  display: inline;
+  float: right;
+}
+.head {
+  color: white;
+  background-color: red;
+  display: inline;
+  font-size: x-small;
+  border-radius: 3px;
+}
+.tittle {
+  width: 380px;
+  margin-top: 0%;
+}
+.cat {
+  color: green;
+  font-size: x-small;
+  font-weight: 500;
+  line-height: 15px;
+  letter-spacing: 1.98px;
+}
+.line {
+  color: green;
+  font-size: small;
+  margin-left: 2px;
+}
+/* .star {
+  padding-left: 5px;
+  width: 10px;
+  height: 8px;
+} */
+.star1 {
+  width: 14px;
+  padding-left: 3px;
+  height: 10px;
+}
+.rate {
+  padding-left: 10px;
+  font-size: x-small;
+}
+h5 {
+  margin-top: 2%;
+  font-size: x-small;
+}
+.para {
+  color: #000;
+  margin-top: 1%;
+  font-family: Manrope;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 100;
+  line-height: 177.994%; /* 21.359px */
+  letter-spacing: 0.24px;
+}
+.descrip {
+  margin-top: 0%;
+}
+.pic3 {
+  padding-left: 10px;
+  margin-top: 2%;
+}
+button {
+  margin-top: 2%;
+  border: none;
+  width: 55px;
+  height: 35px;
+  border-radius: 13px;
+}
+.buttonclo {
+  background-color: rgba(49, 49, 148, 0.603);
+  color: #fff;
+  font-family: Manrope;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.bton2 {
+  color: rgba(63, 62, 63, 0.3);
+  font-family: Manrope;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 177.994%; /* 21.359px */
+  letter-spacing: 0.24px;
+}
